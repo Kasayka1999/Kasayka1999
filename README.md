@@ -6,8 +6,8 @@ I enjoy working with Python, FastAPI, and Django, and I’m always exploring how
 ---
 
 ### 🚀 What I'm working on
-- [AI-Powered FAQ Bot API](https://github.com/Kasayka1999/AI-Powered-FAQ-Bot-API):  
-  A backend project using FastAPI, PostgreSQL, SQLModel, JWT Auth, and RAG — powering FAQ bots with custom embeddings and expanding into web scraping–based FAQ ingestion.
+**[AI-Powered FAQ Bot API](https://github.com/Kasayka1999/AI-Powered-FAQ-Bot-API)**
+ - A backend project using FastAPI, PostgreSQL, SQLModel, JWT Auth, and RAG — powering FAQ bots with custom embeddings and expanding into web scraping–based FAQ ingestion.
 
 ---
 
