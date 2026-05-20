@@ -49,9 +49,11 @@ Through this project, I’m gaining hands-on experience with advanced backend an
 - HMAC-based chain-of-custody signing
 - Multi-tenant SaaS architecture
 - LangChain and LangGraph
-- Agentic workflows
-- RAG and Agentic GraphRAG planning
+- LiteLLM-based model routing
+- Multi-model LLM architecture
 - Prompt caching and LLM cost optimization
+- RAG and Agentic GraphRAG planning
+- Agentic workflows
 - Security-focused backend design
 - CI/CD and automated test infrastructure
 
@@ -76,10 +78,14 @@ This project is teaching me how real production systems are designed: not only w
 ### AI / LLM Engineering
 - LangChain
 - LangGraph
+- LiteLLM
 - RAG
 - Agentic workflows
+- Agentic GraphRAG planning
 - Embeddings
 - Prompt caching
+- LLM routing
+- LLM cost optimization
 - AI tool orchestration
 
 ### DevOps & Testing
